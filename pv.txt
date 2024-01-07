@@ -1,6 +1,7 @@
 Hello World :- this file is amde with the help of vicky Sir !! 
 
-begin tran 
-update emmplyees
 
-rollback tran 
+SELECT expressions
+FROM tables
+[WHERE conditions]
+[ORDER BY expression [ ASC | DESC ]];update 
